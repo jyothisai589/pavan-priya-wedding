@@ -1,6 +1,6 @@
 // EDIT ONLY THE TEXT BETWEEN QUOTATION MARKS. Keep commas and braces.
 window.WEDDING_CONFIG = {
-  rsvpUrl: "PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE",
+  rsvpUrl: "https://script.google.com/macros/s/AKfycbyCvBM-TUXEQsNLnTSr3u-acIYdkPLrojLfgkPWd7ElhEoxf4cCxMKKKURCB4FW_dKFSw/exec",
   ceremony: {
     title: "Pellikoduku & Pellikuthuru Ceremony",
     date: "Saturday, November 14, 2026",
